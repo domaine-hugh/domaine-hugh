@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Hi, I am Yuhui and go by Hugh
 
-- 💬 I was an electrical enginner but I found it is not my true love
+- 💬 I was an electrical enginner in Chinese State Grid but I found it is not my true love
 
 - ⚡ I am pivoting my career to IT region especially front-end development
 
