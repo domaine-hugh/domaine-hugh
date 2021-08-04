@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 I already finished my HTML and CSS courses
 
 - 🌱 I’m currently learning JavaScript 
+
+- 🔭 I am studying in Juno College and going to attend the web dev bootcamp in Oct
