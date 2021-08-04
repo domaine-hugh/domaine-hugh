@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript 
 
-- 🔭 I am studying in Juno College and going to attend the web dev bootcamp in Oct
+- 🔭 I am studying in Juno College and going to attend the web dev bootcamp in Oct, 2021
