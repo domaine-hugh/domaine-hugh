@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Hi, I am Yuhui and go by Hugh
+
+- ⚡ I am pivoting my career to IT region because it is interesting, creative, learning demanding and we can build a lot of fun!
+
+- 📫 I already finished my HTML and CSS courses
+
+- 🌱 I’m currently learning JavaScript 
