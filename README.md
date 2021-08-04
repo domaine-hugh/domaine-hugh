@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - ⚡ I am pivoting my career to IT region especially front-end development
 
-- 🌱 I am currently studying JavaScript in Juno College
+- 🌱 I am currently studying JavaScript in Juno College and going to attend the web dev bootcamp in Oct
 
 - 🤔 I’m looking for help with language study (JavaScript, React, so far and so on) and preparing for job search 
 
