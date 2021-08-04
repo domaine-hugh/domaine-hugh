@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 - 😄 Hi, I am Yuhui and go by Hugh
 
-- ⚡ I am pivoting my career to IT region because it is interesting, creative, learning demanding and we can build a lot of fun!
+- 💬 I was an electrical enginner but I found it is not my true love
 
-- 📫 I already finished my HTML and CSS courses
+- ⚡ I am pivoting my career to IT region especially front-end development
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I am currently studying JavaScript in Juno College
 
-- 🔭 I am studying in Juno College and going to attend the web dev bootcamp in Oct, 2021
+- 🤔 I’m looking for help with language study (JavaScript, React, so far and so on) and preparing for job search 
+
+- 📫 How to reach me: my LinkedIn is https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/ and `YUHUI ZHOU` in Slack
+
+- ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time (but using app KEEP to keep fit)
