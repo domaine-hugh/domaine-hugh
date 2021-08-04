@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I am currently studying JavaScript in Juno College and going to attend the web dev bootcamp in Oct
 
-- 🤔 I’m looking for help with language study (JavaScript, React, so far and so on) and preparing for job search 
+- 🤔 I’m looking for help with language study (currently JavaScript and React) and preparing for job search 
 
 - 📫 How to reach me: my LinkedIn is https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/ and `YUHUI ZHOU` in Slack
 
