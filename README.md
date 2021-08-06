@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: my LinkedIn is https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/ and `YUHUI ZHOU` in Slack
 
-- ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time (but using app KEEP to keep fit)
+- ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time but good at sand castle building and swing pushing
