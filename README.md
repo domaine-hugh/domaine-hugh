@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with language study (currently JavaScript and React) and preparing for job search 
 
-- 📫 How to reach me: my LinkedIn is https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/ and `YUHUI ZHOU` in Slack
+- 📫 How to reach me: my LinkedIn is https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/ and Tweeter is https://twitter.com/Hugh_Zhou_ and slack is `YUHUI ZHOU`  
 
 - ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time but good at sand castle building and swing pushing
