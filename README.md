@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - ⚡ I am pivoting my career to IT region especially front-end development
 
-- 🌱 I am currently studying JavaScript in Juno College and going to attend the web dev bootcamp in Oct
+- 🌱 I am currently studying the web dev bootcamp in Juno College   
 
-- 🤔 I’m looking for help with language study (currently JavaScript and React) and preparing for job search 
+- 🤔 I’m looking for entry level job of front end development 
 
 - 📫 How to reach me: my LinkedIn is [https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/] and Tweeter is [https://twitter.com/Hugh_Zhou_] and slack is `YUHUI ZHOU`  
 
