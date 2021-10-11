@@ -1,4 +1,4 @@
-### Hi there <iframe src="https://giphy.com/embed/X2Iney7tVHeWtS1Y9Z" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-there-X2Iney7tVHeWtS1Y9Z">via GIPHY</a></p>  
+### Hi there ![wave](https://user-images.githubusercontent.com/84819219/136728736-f2b8fa58-7b1c-466d-b71f-3e42d5a908cd.gif)  
 
 <!--
 **Hughzhoutrt/Hughzhoutrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
