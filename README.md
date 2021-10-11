@@ -13,12 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 Hi, I am Yuhui and go by Hugh
+- 😆 Hi, I am Yuhui and go by Hugh
 
-- 💬 I was an electrical enginner in Chinese State Grid   
+- 🖥️ Electrical Engineer turned front-end developer     
 
-- ⚡ I am pivoting my career to IT region especially front-end development
-
+- 🧰 JavaScript(ES6+), HTML5, CSS3, jQuery, React, firebase and API integrations.    
+  
+- ✔️ Plum assessment top talents: embracing diversity, conflict resolution and communication  
+  
+- ❤️ Perseverance, positive attitude, strong self-adjustment, consistent self-motivation and self-improvement, team player and people person    
+  
+- 🔥 adapting and learning fast, be good at problem solving and executing, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive  
+  
 - 🌱 I am currently studying the web dev bootcamp in Juno College   
 
 - 🤔 I’m looking for entry level job of front end development 
