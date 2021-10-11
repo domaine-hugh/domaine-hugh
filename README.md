@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 - 🧐 Looking for an entry level job in front end development   
 
 - 💬 How to reach me: you can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2], or on email:[hughzhoutrt@gmail.com]   
+<!-- Icons -->  
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)  
+<!-- Links to your social media accounts -->  
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
