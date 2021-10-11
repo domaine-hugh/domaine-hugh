@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 - 🔥 Adapting and learning fast, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive    
   
-- 💡 Web dev bootcamp in <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
+- 💡 Web dev bootcamp from <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
 
 - 🧐 Looking for an entry level job in front end development   
 
