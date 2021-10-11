@@ -21,14 +21,29 @@ Here are some ideas to get you started:
   
 - ✔️ Plum assessment top talents: embracing diversity, conflict resolution and communication  
   
-- ❤️ Perseverance, positive attitude, strong self-adjustment, consistent self-motivation and self-improvement, team player and people person    
+- ❤️ Perseverance, positive attitude, strong self-adjustment, consistent self-motivation and self-improvement and team player    
   
-- 🔥 adapting and learning fast, be good at problem solving and executing, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive  
+- 🔥 Adapting and learning fast, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive    
   
-- 🌱 I am currently studying the web dev bootcamp in Juno College   
+- 💡 Web dev bootcamp in <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
 
-- 🤔 I’m looking for entry level job of front end development 
+- 🧐 Looking for an entry level job in front end development   
 
-- 📫 How to reach me: my LinkedIn is [https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/] and Tweeter is [https://twitter.com/Hugh_Zhou_] and slack is `YUHUI ZHOU`  
+- 💬 How to reach me:   
+-  my LinkedIn is [https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/] and Tweeter is [https://twitter.com/Hugh_Zhou_] and Email is [hughzhoutrt@gmail.com]  
+-  <!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+   
 
 - ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time but good at sand castle building and swing pushing
