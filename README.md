@@ -1,5 +1,4 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/84819219/136728736-f2b8fa58-7b1c-466d-b71f-3e42d5a908cd.gif width="30px")  
-
+### Hi there <img src="https://imgur.com/gallery/xJChzHc" alt="a waving hand to say hello">  
 <!--
 **Hughzhoutrt/Hughzhoutrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
