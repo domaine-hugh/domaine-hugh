@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
-- 👧🏻 Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time but good at sand castle building and swing pushing
+- 👧🏻 Fun fact: I had many interests until my daugther came to my life, currently I am a full-leisure-time daddy with a rare sport time but good at sand castle building and swing pushing
