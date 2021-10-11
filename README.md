@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🧐 Looking for an entry level job in front end development   
 
-- 💬 How to reach me:   
+- 💬 How to reach me: you can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 -  my LinkedIn is [https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/] and Tweeter is [https://twitter.com/Hugh_Zhou_] and Email is [hughzhoutrt@gmail.com]  
 -  <!-- Actual text -->
 
@@ -42,8 +42,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/Hugh_Zhou_
+[2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/
    
 
 - ⚡ Fun fact: I was a video game player (WOW, LOL and etc.) and basketball player until my daugther came to my life, currently I am a full-leisure-time daddy with 0 video game and a rare basketball time but good at sand castle building and swing pushing
