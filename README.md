@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Electrical Engineer turned front-end developer     
 
-- 🧰 JavaScript(ES6+), HTML5, CSS3, jQuery, React, firebase and API integrations      
+- 🧰 JavaScript(ES6+), HTML5, CSS3, SASS, jQuery, React, firebase and API integrations      
   
 - ✔️ Plum assessment top talents: embracing diversity, conflict resolution and communication  
   
