@@ -25,11 +25,9 @@ Here are some ideas to get you started:
   
 - 👯 Reliable, flexible, receiptive and supportive, always collaberate with my co-workers
   
-- ❤️ Positive, self-motivated, curious, take ownership of my work    
+- 🔥 Positive, curious, self-motivated, self-reflected, take ownership of my work      
   
-- 🔥 Adapting and learning fast, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive    
-  
-- 💡 Graduate from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
+- 💡 Master of Engineering, and currently graduated from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
 
 - 🧐 Looking for a front end development position      
 
