@@ -17,19 +17,23 @@ Here are some ideas to get you started:
 
 - 🖥️ Electrical Engineer turned front-end developer     
 
-- 🧰 JavaScript(ES6+), HTML5, CSS3, SASS, jQuery, React, firebase and API integrations      
+- 🧰 JavaScript(ES6+), React, jQuery, HTML5, CSS3, SASS, firebase and API integrations   
+    
+- 🌱 Team-based programming, use Git for version control
   
-- ✔️ Plum assessment top talents: embracing diversity, conflict resolution and communication  
+- ✔️ I build accessible and responsive websites and applications   
   
-- ❤️ Perseverance, positive attitude, strong self-adjustment, consistent self-motivation and self-improvement and team player    
+- 👯 Reliable, flexible, receiptive and supportive, always collaberate with my co-workers
+  
+- ❤️ Positive, self-motivated, curious, take ownership of my work    
   
 - 🔥 Adapting and learning fast, creative, reflective, systematic, methodical, receptive, flexible, unconventional and supportive    
   
-- 💡 Web dev bootcamp from <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
+- 💡 Graduate from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
 
-- 🧐 Looking for an entry level job in front end development   
+- 🧐 Looking for a front end development position      
 
-- 💬 How to reach me: you can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2], or on email:[hughzhoutrt@gmail.com]   
+- 💬 How to reach me:[![Twitter][1.2]][1], or [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)  
@@ -37,4 +41,8 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
-- 👧🏻 Fun fact: I had many interests until my daugther came to my life, currently I am a full-leisure-time daddy with a rare sport time but good at sand castle building and swing pushing
+- ⚡ Portfolio https://hiyuhui.com/    
+    
+- 😆 Consistently keep improving my skill-set, leearning Node.js on Udemy currently  
+    
+- ❤️ Nothing can stop a willing heart  
