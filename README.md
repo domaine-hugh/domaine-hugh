@@ -41,6 +41,6 @@ Here are some ideas to get you started:
      
 - ⚡ Portfolio https://hiyuhui.com/    
     
-- 😆 Consistently keep improving my skill-set, leearning Node.js on Udemy currently  
+- 😆 Consistently keep improving my skill-set, learning Node.js on Udemy currently  
     
 - ❤️ Nothing can stop a willing heart  
