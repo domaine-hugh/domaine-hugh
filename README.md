@@ -27,9 +27,7 @@ Here are some ideas to get you started:
   
 - 🔥 Positive, curious, self-motivated, self-reflected, take ownership of my work      
   
-- 💡 Master of Engineering, and currently graduated from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>   
-
-- 🧐 Looking for a front end development position      
+- 💡 Master of Engineering, and currently graduated from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>    
 
 - 💬 How to reach me:[![Twitter][1.2]][1], or [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
