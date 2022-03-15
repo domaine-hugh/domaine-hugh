@@ -15,19 +15,7 @@ Here are some ideas to get you started:
 -->
 - 😆 Hi, I am Yuhui and go by Hugh
 
-- 🖥️ Electrical Engineer turned front-end developer     
-
-- 🧰 JavaScript(ES6+), React, jQuery, HTML5, CSS3, SASS, firebase and API integrations   
-    
-- 🌱 Team-based programming, use Git for version control
-  
-- ✔️ I build accessible and responsive websites and applications   
-  
-- 👯 Reliable, flexible, receiptive and supportive, always collaberate with my co-workers
-  
-- 🔥 Positive, curious, self-motivated, self-reflected, take ownership of my work      
-  
-- 💡 Master of Engineering, and currently graduated from Immersive Web development bootcamp at <a href="https://junocollege.com/bootcamp/web-development">Juno College</a>    
+- 🖥️ Electrical Engineer turned front-end developer          
 
 - 💬 How to reach me:[![Twitter][1.2]][1], or [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
@@ -38,7 +26,3 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
 - ⚡ Portfolio https://hiyuhui.com/    
-    
-- 😆 Consistently keep improving my skill-set, learning Node.js on Udemy currently  
-    
-- ❤️ Nothing can stop a willing heart  
