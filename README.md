@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😆 Hi, I am Yuhui and go by Hugh
+- 😆 Hi, I am Hugh Zhou
 
-- 🖥️ Electrical Engineer turned front-end developer          
+- 🖥️ I am a front-end developer and mainly work on Shopify themes          
 
 - 💬 How to reach me:[![Twitter][1.2]][1], or [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
 - ⚡ Portfolio https://hiyuhui.com/    
+     
+- :computer: Github account for work https://github.com/ablesense-hugh
