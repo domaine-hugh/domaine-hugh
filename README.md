@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 - 😆 Hi, I am Hugh Zhou
 
-- 🖥️ I am a front-end developer and mainly work on Shopify themes          
+- 🖥️ I am a front-end developer and mainly work on the Shopify platform          
 
-- 💬 How to reach me:[![Twitter][1.2]][1], or [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
+- 💬 How to reach me: [![Twitter][1.2]][1], or  [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)  
