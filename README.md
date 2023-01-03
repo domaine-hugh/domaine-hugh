@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 - 😆 Hi, I am Hugh Zhou
 
-- 🖥️ I am a front-end developer and mainly work on the Shopify platform          
+- :octocat: I am a front-end developer and mainly work on the Shopify platform          
 
-- 💬 How to reach me: [![Twitter][1.2]][1], or  [![LinkedIn][2.2]][2], or email:[hughzhoutrt@gmail.com]   
+- 💬 How to reach me: [![Twitter][1.2]][1], or  [![LinkedIn][2.2]][2], or 📧:[hughzhoutrt@gmail.com]   
 <!-- Icons -->  
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)  
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
-- ⚡ Portfolio https://hiyuhui.com/    
+- :feet: Portfolio https://hiyuhui.com/    
      
-- :computer: Github account for work https://github.com/ablesense-hugh
+- :office: Github account for work https://github.com/ablesense-hugh
