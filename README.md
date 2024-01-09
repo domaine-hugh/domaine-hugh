@@ -12,6 +12,4 @@
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/hugh-yuhui-zhou-47181b170/  
      
-- :feet: Portfolio https://hiyuhui.com/    
-     
 - :office: I work at [Able Sense](https://ablesense.com/) and welcome to visit my [Github account for work](https://github.com/ablesense-hugh)
