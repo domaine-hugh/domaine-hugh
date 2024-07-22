@@ -2,7 +2,7 @@
     
 - 😆 Hi, I am Hugh Zhou
 
-- :octocat: I am a front-end engineer at [Able Sense](https://ablesense.com/), a [Domaine](https://meetdomaine.com/) brand        
+- :octocat: I am a front-end engineer at [Domaine](https://meetdomaine.com/)       
 
 - 💬 How to reach me: [https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170/], or 📧 [hughzhoutrt@gmail.com]   
      
