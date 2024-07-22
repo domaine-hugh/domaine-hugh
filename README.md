@@ -12,4 +12,4 @@
 [1]: https://twitter.com/Hugh_Zhou_  
 [2]: https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170/
      
-- :office: I work at [Able Sense](https://ablesense.com/) and welcome to visit my [Github account for work](https://github.com/ablesense-hugh)
+- :office: My contributions from 2022 to 2024 can be viewed via my [past Able Sense Github account](https://github.com/ablesense-hugh)
