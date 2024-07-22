@@ -10,4 +10,4 @@
         
 Feel free to contact me via
 <br><br>
-<a href="https://linkedin.com/in/moepoi](https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-hugh](https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
+<a href="https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
