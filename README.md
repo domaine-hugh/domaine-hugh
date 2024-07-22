@@ -6,4 +6,4 @@
 
 - 💬 How to reach me: [https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170/], or 📧 [hughzhoutrt@gmail.com]   
      
-- :office: Check my contributions from 2022 to 2024 via my [past Able Sense Github account](https://github.com/ablesense-hugh)
+- :office: Check my contributions from 2022 to 2024 via my [Able Sense specific Github account](https://github.com/ablesense-hugh)
