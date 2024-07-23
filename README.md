@@ -2,7 +2,7 @@
     
 :octocat: I am a front-end engineer at [Domaine](https://meetdomaine.com/)       
      
-:office: Check my contributions from 2022 to 2024 via my [Able Sense specific Github account](https://github.com/ablesense-hugh)        
+:office: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
 
         
 Feel free to contact me via
