@@ -2,7 +2,7 @@
     
 :octocat: I am a front-end engineer at [Domaine](https://meetdomaine.com/)      
 
-:computer: I possess over two years of hands-on experience on the Shopify platform, specializing in themes, functions, UI extensions, and apps. My expertise includes a range of technologies such as Liquid, JavaScript, CSS, HTML, React, Node.js, GraphQL and Rest API.
+:computer: I possess over two years of hands-on development experience on the Shopify platform   
      
 :basecampy: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
 
