@@ -4,7 +4,7 @@
 
 :computer: I possess over two years of hands-on development experience on the Shopify platform   
      
-:basecampy: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
+:ballot_box_with_check: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
 
         
 :hotsprings: Feel free to contact me via
