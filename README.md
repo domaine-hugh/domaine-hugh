@@ -4,7 +4,7 @@
 
 :desktop_computer: I possess over two years of hands-on development experience on the Shopify platform   
 
-:floppy_disk: My expertise includes specializing in themes, functions, UI extensions, and apps
+:keyboard: My expertise includes specializing in themes, functions, UI extensions, and apps
      
 :high_brightness: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
 
