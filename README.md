@@ -22,3 +22,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
   </a>
 </p>
+
+<p align="left">
+  <a href="https://github.com/domaine-hugh">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
+  </a>
+</p>
+
