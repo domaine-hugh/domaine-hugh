@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://github.com/domaine-hugh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
   </a>
 </p>
 
