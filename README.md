@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://github.com/domaine-hugh">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's most commit language"/>
+    <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's most commit language"/>
   </a>
   <a href="https://github.com/domaine-hugh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=domaine-hugh&theme=2077&utcOffset=-4" alt="Hugh's contributions"/>
