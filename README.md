@@ -14,3 +14,11 @@
 <a href="https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
 <a href="mailto:hugh.zhou@meetdomaine.com"><img src="https://img.shields.io/badge/Email-Domaine-black"></a>
 <a href="mailto:hughzhoutrt@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-orange"></a>
+
+#
+
+<p align="left">
+  <a href="https://github.com/domaine-hugh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=radical" alt="Hugh's contributions"/>
+  </a>
+</p>
