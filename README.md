@@ -19,6 +19,6 @@
 
 <p align="left">
   <a href="https://github.com/domaine-hugh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=radical" alt="Hugh's contributions"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
   </a>
 </p>
