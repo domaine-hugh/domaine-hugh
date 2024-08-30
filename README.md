@@ -25,10 +25,10 @@
 
 <p align="left">
   <a href="https://github.com/domaine-hugh">
-    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's most commit language"/>
+    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
   </a>
   <a href="https://github.com/domaine-hugh">
-    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
+    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's most commit language"/>
   </a>
 </p>
     
