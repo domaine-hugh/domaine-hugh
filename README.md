@@ -22,15 +22,6 @@
     <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
   </a>
 </p>
-
-<p align="left">
-  <a href="https://github.com/domaine-hugh">
-    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
-  </a>
-  <a href="https://github.com/domaine-hugh">
-    <img width="297.5" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domaine-hugh&theme=2077" alt="Hugh's most commit language"/>
-  </a>
-</p>
     
 #    
     
