@@ -16,12 +16,4 @@
 <a href="mailto:hughzhoutrt@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-orange"></a>
 
 #
-
-<p align="left">
-  <a href="https://github.com/domaine-hugh">
-    <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=2077" alt="Hugh's contributions"/>
-  </a>
-</p>  
-
-#    
-    
+  
