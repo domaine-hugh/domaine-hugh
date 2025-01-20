@@ -9,8 +9,7 @@
 :high_brightness: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
 
         
-:hotsprings: 
-    
+:hotsprings:    
 <a href="https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
 <a href="mailto:hugh.zhou@meetdomaine.com"><img src="https://img.shields.io/badge/Email-Domaine-black"></a>
 <a href="mailto:hughzhoutrt@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-orange"></a>
