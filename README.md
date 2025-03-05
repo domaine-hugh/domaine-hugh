@@ -2,7 +2,7 @@
     
 :octocat: I am a front-end engineer at [Domaine](https://meetdomaine.com/)      
 
-:desktop_computer: I possess over two years of hands-on development experience on Shopify stores   
+:desktop_computer: I possess over three years of hands-on development experience on Shopify stores   
 
 :keyboard: My expertise includes specializing in themes, functions, UI extensions, and apps
      
