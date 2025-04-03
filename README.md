@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white"> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Accessibility-008000?style=for-the-badge&logo=accessibility&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsive%20Design-FF5733?style=for-the-badge&logo=responsive&logoColor=white">
   <img src="https://img.shields.io/badge/Shopify Plus-96bf48?style=for-the-badge&logo=shopify&logoColor=white"> 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
@@ -30,8 +32,6 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Accessibility-008000?style=for-the-badge&logo=accessibility&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF5733?style=for-the-badge&logo=responsive&logoColor=white">
   <img src="https://img.shields.io/badge/Klaviyo-65B600?style=for-the-badge&logo=klaviyo&logoColor=white">
 </p>
 
