@@ -6,7 +6,7 @@
 
 :keyboard: My expertise includes specializing in themes, functions, UI extensions, and apps
      
-:high_brightness: Check my contributions from 2022 to 2024 via my [Able Sense Github account](https://github.com/ablesense-hugh)        
+:high_brightness: I also used another Github account from 2022 to 2024 [Able Sense Github account](https://github.com/ablesense-hugh)        
 
         
 :hotsprings:    <a href="https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
