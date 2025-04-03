@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Pixels&pause=1000&color=008080&multiline=true&width=435&height=60&lines=Hi%2C+this+is+Hugh+Zhou;Nice+to+meet+you!)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/84819219/210441416-67221157-9cd0-40b2-9c0c-2ba98a12fde5.gif" alt="a big waving to say hello" width="60px">
-
----
-
 ### 👨‍💻 About Me
 
 - :octocat: I am a **Front-end Engineer** at [Domaine](https://meetdomaine.com/)
