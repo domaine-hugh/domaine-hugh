@@ -15,9 +15,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white"> 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Shopify Plus-96bf48?style=for-the-badge&logo=shopify&logoColor=white"> 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=api&logoColor=white"> 
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -31,8 +33,6 @@
   <img src="https://img.shields.io/badge/Accessibility-008000?style=for-the-badge&logo=accessibility&logoColor=white">
   <img src="https://img.shields.io/badge/Responsive%20Design-FF5733?style=for-the-badge&logo=responsive&logoColor=white">
   <img src="https://img.shields.io/badge/Klaviyo-65B600?style=for-the-badge&logo=klaviyo&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ---
