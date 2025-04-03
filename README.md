@@ -28,10 +28,13 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Accessibility-008000?style=for-the-badge&logo=accessibility&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF5733?style=for-the-badge&logo=responsive&logoColor=white">
+  <img src="https://img.shields.io/badge/Web%20Content%20Accessibility%20Guidelines%20(WCAG)-008000?style=for-the-badge&logo=accessibility&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-FF5733?style=for-the-badge&logo=responsive&logoColor=white">
   <img src="https://img.shields.io/badge/Klaviyo-65B600?style=for-the-badge&logo=klaviyo&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
+
 
 
 ---
