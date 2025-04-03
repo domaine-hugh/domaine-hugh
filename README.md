@@ -22,24 +22,13 @@
   <img src="https://img.shields.io/badge/Shopify Plus-96bf48?style=for-the-badge&logo=shopify&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Web Components-F2A900?style=for-the-badge&logo=webcomponentsdotorg&logoColor=white">
-  <img src="https://img.shields.io/badge/Shoelace Components-008080?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Lit Components-FF9800?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Klaviyo-00B140?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hughzhou&show_icons=true&theme=radical" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hughzhou&layout=compact&theme=radical" height="180px">
 </p>
 
 ---
