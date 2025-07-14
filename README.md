@@ -4,9 +4,7 @@
 
 :desktop_computer: I possess over three years of hands-on development experience on Shopify stores   
 
-:keyboard: My expertise includes specializing in themes, functions, UI extensions, and apps
-     
-:high_brightness: I also used another Github account [Able Sense Github account](https://github.com/ablesense-hugh)        
+:keyboard: My expertise includes specializing in themes, functions, UI extensions, and apps   
 
         
 :hotsprings:    <a href="https://www.linkedin.com/in/yuhui-hugh-zhou-47181b170" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-HughZhou-informational"></a>
