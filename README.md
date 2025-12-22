@@ -5,4 +5,3 @@
 <a href="mailto:hugh.zhou@meetdomaine.com"><img src="https://img.shields.io/badge/Email-Domaine-black"></a>
 <a href="mailto:hughzhoutrt@gmail.com"><img src="https://img.shields.io/badge/Email-Personal-orange"></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domaine-hugh&theme=radical" alt="Hugh's profile details"/>
